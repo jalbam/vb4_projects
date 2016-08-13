@@ -1,0 +1,67 @@
+                          siEmu: CEE-8650 (Computer Electro Emulator 8650)
+
+
+Este Software es programado en Visual Basic 4.0 para Windows 95
+Son necesarias las librerias (DLL's) de VB4 32Bits (abajo la direccion)
+
+http://westwood.fortunecity.com/saks/463/programa/vb40032.zip (Liberia Visual Basic 4)
+
+Computer Electro es una marca registrada por Dumbo (R). Todos sus logos, sistema emulado, fichas,
+frases y demas son absolutamente de su propiedad y bajo ningun concepto este emulador desea hacer
+mal sobre ellos. En caso de que la compañia en cuestion este en desacuerdo se ruega que se ponga
+inmediatamente en contacto conmigo.
+Acontinuacion el texto que deja clara su licencia y registro de marca que se puede hallar en la
+contraportada de la caja del ordenador:
+"(c) 1990 by Koninklijke Hausemann en Hötte nv, Amsterdam, under Berne and Universal Copyright
+Conventions.
+Made by Hausemann en Hötte nv., P.O. Box 1729, 1000 BS Amsterdam, Holland. Printed in the
+Netherlands".
+
+
+Antes de continuar todos deberian saber que este no es un emulador propiamente dicho. Para
+comenzar, no se esta intentando traducir nada a PC, sino simularlo. Las "roms" son mas bien
+imagenes escaneadas de las fichas que componen el ordenador. De todas formas, personalmente,
+me gustaria clasificar este software bajo la etiqueta de "emuladores y otros". De ahi su nombre
+de siEmu (Simulador/Emulador).
+
+
+Lo que le hacen diferente a este "emulador" son causas muy dispares. Una de ellas, bastante
+importante, es que es la primera vez que se intenta "emular" un sistema computerizado educativo
+y de esta forma tan curiosa. Las fichas ("roms") son en total 74. Sin embargo, cada persona puede
+crear las suyas desde casa. Solo necesita un programa de dibujo que soporte los formatos
+compatibles con el siEmu. Asi se le da un modo de mas realismo al siEmu, ya que en la realidad
+tambien se podian crear tus propias fichas gracias a las que daban con el ordenador y que estaban
+en blanco listas para ser editadas por uno mismo. Esto lo hace mas grande e infinitamente con mas
+posibilidades. Se puede utilizar para estudiar, para pasarlo bien... y es un sistema con "roms"
+infinitas las cuales las puedes hacer tu. Ahora podras utilizar esta iniciativa para crear fichas
+con tests para la autoescuela, entrevistas a personajes, encuestas, etc. utiliza tu imaginacion.
+No son necesarios conocimientos de programacion. Leete el archivo crear.txt.
+
+
+El ordenador fue creado para publico MAYOR a 8 años. Pero eso depende de la ficha escogida o
+creada que se este utilizando. El ordenador era como un "amigo" que te preguntaba: una buena
+forma de estudiar.
+Este se alimentaba con 4 pilas de 1,5v modelo R20 (las grandes). Pero tambien se podia alimentar
+atraves de corriente externa. Este texto era encontrado en la contraportada en modo informativo:
+"OUTPUT: DC 7,5-9 V  200mA
+ POLARITY: - ----@---- +".
+El adaptador no iba incluido.
+
+
+Las fichas miden, a escala real, 34 de ancho por 24 de largo (34x24). El programa al ejecutarlas
+solo las muestra a escala 1:2 (la mitad, 17x12). Estas fichas van en pareja (dos "juegos" en cada
+cara), por lo que no es de extrañar que vengan en paquetes de dos. Cada una se autoidentifica con
+un codigo.
+
+Las lucecitas marcadoras estan a una distancia de 1.6cm cada una aproximadamente.
+Estan en ambos lados y en cada uno hay 13 (26 en total).
+
+Este archivo ha sido escrito el Domingo, 1 de Agosto de 1999, por la mañana. Hora española.
+Y modificado el Lunes 2.
+
+Gracias a todas esas personas que se han mostrado curiosas para intentar saber cual era el
+proyecto y a las que en gran parte se han ofrecido a colaborar. Gracias a los que escaneais las
+fichas y gracias a los que las creais. Gracias a los consejeros.
+
+Proximamente tendreis una nueva version.
+Programa creado por A-Kristo. jalbam@tinet.fut.es

@@ -1,0 +1,2 @@
+Luces laterales marcadoras: 255x195 (ahora 15x15 -> 255x255) 
+Luces verdes indicadoras: 255x255 (ahora 25x25 -> 375x375)

@@ -1,0 +1,2 @@
+Vision\Dibujo->413x269
+Estado Ageno\Dibujo Enemigo->120x110

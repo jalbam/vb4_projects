@@ -1,0 +1,185 @@
+siEmu: CEE v.0.08B: Sabado 14 de Agosto de 1999 (por la tarde)
+
+- Archivos de texto debidamente modificados. Y una URL mas! ;D
+- Titulo en el ejecutable modificado.
+- Cuando en el buscador se buscaba por "titulo" esta misma casilla se quedaba igual sin
+  modificarse. Esto era un problema ya que los verdaderos titulos se han de respetar las
+  mayusculas y minusculas. Ahora este problemilla ha sido corregido.
+- Otro truco mas! ;D
+- Tamaño del boton on/off y el de volumen alargado y centrados.
+- El buscador ya soporta hasta la ficha 30! (son 74 en total, de momento)
+- Si el equipo esta apagado, al acceder al volumen antes avisa de esto.
+- Luz rojas retocadas (antes tenian pequeño fallo en parte inferior).
+- Si escribes en la pantalla de digitos y luego apagas el ordenador, la pantalla se limpia.
+- Pantallita de presentacion retocada.
+- Imagen del marcador de turnos ha sido modificada! ahora es mas atractiva :D
+- El marcador de turnos antes, al seleccionar un jugador, se ponia en rojo... pero se convertia
+  en una B (simbolo de player 2)! ahora lo he arreglado.
+- La pantalla no se puede seleccionar (no sale el cursor) cuando esta apagado el equipo.
+- Si antes se encendia el equipo y luego se apagaba, la pantalla seguia siendo editable. Ahora
+  el problema ha sido subsanado.
+- Al encender el equipo la pantalla dice "HI" ("HOLA"), al igual que el ordenador de verdad.
+- Otro truco oculto! esta vez se trata de un juego. Pero no un juego normal, no. Es un juego 
+  X! no explicare mas. A ver si lo encontrais y de paso tambien los demas trucos! ;D (juego
+  todavia incompleto).
+- Modificado logo de presentacion que esta en el lugar donde se ponen las fichas! ;D
+- Estoy pensando en hacer una foto al ordenador y luego escanearla para que veais como es...
+- Falta muy poco para que consiga a alguien que me escanee las fichas para que vosotros las
+  disfruteis.
+- Olvide poner el borde tipo fijo a la ventana de ampliar las imagenes de fichas en el buscador.
+- Me equivoque con tanto "COMPUTER ELECTRONIC". Me hice un lio... es "COMPUTER ELECTRO"!
+
+
+siEmu: CEE v.0.07B: Miercoles 4 de Agosto de 1999 (por la tarde)
+
+- El emulador a cobrado un aspecto mucho mejor del que ya tenia.
+- Los campos del buscador ya tienen tope de caracteres. Ya no es posible, por ejemplo, poner un
+  codigo de 5 digitos cuando solo hay de cuatro.
+- Que despieste! en el buscador ya no se puede buscar por la puntuacion maxima o por la materia
+  ya que esto implicaria que saliese mas de una ficha y esto, por el momento, no es posible.
+- El buscador ya va con las 10 primeras fichas! pruebalo. Son 10 de 74 (;
+- Se ha puesto un pequeño logo (en realidad es el SIEMU.ICO) a la parte izquiera del emulador.
+- Vaya rollo! cada vez tengo el codigo mas desordenado! menos mal que me divierto :D
+- Al poner dos players y luego apretar el boton de info, esto dejaba la luz verde numero 4
+  encendida. Ahora ha sido solucionado (:
+- Al boton de volumen y al de on/off se le ha implementado un borde para que no "pierda" con el
+  fondo negro y para que de un efecto de "boton".
+- El fondo del programa principal se ha puesto de color negro. La direccion de E-Mail y la WEB
+  se han dejado con fondo grisaceo para que sepas done estas marcando cuando pongas el cursor
+  encima.
+- Cambiadas las luces (cuadros de texto) por imagenes de verdad! la cosa ha valido la pena de
+  verdad. Ya tenemos un aspecto mas "profesional".
+- El programa ya tiene icono propio! el problema es que este se "desfigura" cuando se ven en
+  pequeño.
+- Nueva entrada de bienvenida. Ahora no salen MSGBOX's sino que sale una ventana muy grafica!
+
+
+siEmu: CEE v.0.06B: Miercoles 4 de Agosto de 1999 (por la mañana)
+
+- Archivos debidamente modificados y arreglados.
+- Ya vamos puliendo esto mas para cuando llegue la hora de la verdad! ;D
+- Antes si estabas poniendo la configuracion (al encender) y apretabas cancelar, las luces verdes
+  se quedaban iluminadas. Ahora vuelven a su estado normal.
+- He sanado lo de poner la URL de EmuM@nia como si fuera la de Emulatronia! que despiste, lo
+  siento de verdad. Gracias al _ALIEN_ por el aviso (:
+- La idea de marcar de que player es el turno comienza a rular. Ahora solo marca cuando se escoge
+  un jugador (claro, siempre tendra el turno el primero! XD).
+- El "texto" de las luces verdes se ha centrado.
+- Aunque salgas de la ventana de volumen el valor de este se guarda y sigue siendo el mismo
+  cuando vuelves a entrar.
+- En la version anterior habia un problema de no poderse apagar el equipo. Esto ocurria por que
+  no encontraba la imagen OFF.GIF. Y el programa, cuando da error, sale sin hacer nada, para no
+  petar. Ahora ya no pasa esto.
+- El volumen no es accesible si el equipo esta apagado. Ahora el control de volumen tiene 10
+  rangos y no 11 como antes. Se le ha puesto un borde.
+- Insertado en todos los formularios el "autoredraw".
+- Hay un nuevo truco mas! ;D
+- Al apretar el boton "Salir" te pregunta si quieres salir! ;D
+- He ordenado los archivos del codigo fuente por directorios distintos (una faena en VB4!) y
+  espero siga rulando todo bien! ;D
+- Ya no hace falta respetar mayusculas y minusculas en el buscador! ahora es indiferente.
+- La pantallita se bloquea y no se le puede escribir encima hasta no encender el equipo.
+
+
+siEmu: CEE v.0.05B: Martes 3 de Agosto de 1999 (por la tarde)
+
+- Al cargar una ficha, si se escoge un archivo no valido, el programa no peta.
+- Lucecitas todavia mas pequeñas para ser mas precisas a la hora de marcar en las fichas.
+- Nueva imagen de inicio para el lugar de la ficha! ;D (logo de presentacion)
+- La pantalla donde se ponen las fichas ya no tiene ese pequeño "bug" que se ajustaba al tamaño
+  de la ficha cargada. Ahora esta se ajusta a el.
+- Se ha puest borde fijo al buscador. Tambien ahora tienes imagenes para marcar "nada" y la ficha
+  actual. Tambien puedes ampliar las imagenes.
+- Nuevo boton de "Borrar Campos" en el buscador y movido el texto informativo de abajo.a
+- El buscador ya funciona con los datos de la primera ficha! modifica los campos con la
+  informacion de la primera ficha (codigos.txt) y veras. Todavia no hay la imagen de esta y no
+  hay respuestas.
+- Ahora, al introducir los datos, dice si la ficha es soportada o no.
+- He ordenado el codigo un poquito para poder aclararme mejor a la hora de comenzar enserio.
+- Un truco mas que se oculta en el tercero. Gracias a Silverman por el material sonoro. Si os
+  gusta South Park y teneis el WinAmp o cualquier otro que soporte MP3, buscar el truco! ;D
+- El emulador cada vez tiene una apariencia mejor, cada vez esta mejor hecho y con mas calidad.
+- Cada boton del panel de control hace BEEP cuando tiene algun efecto. Se recomienda a los que
+  tengais en lugar de BEEPs sonidos de windows molestos (largos, etc.) que los deshabiliteis.
+- Si el ordenador se apaga la arroba y demas botones se desabilitan y la pantalla cambia a color
+  negro otra vez.
+- Al encender el equipo la pantallita cambia de color (se "enciende").
+- Centro de lucecitas (esos puntos) centrado.
+- Nuevos iconos en la ventana de Ayuda y en el Buscador de Fichas.
+- Cambiado el topic de la ventanita de Ayuda ("Ayuda siEmu" a "Ayuda"). No se veia todo...
+- Nuevo URLS.TXT con direcciones de interes! (:
+- Con el nuevo archivo de texto (crear.txt) sabras como hacer tus propias fichas! ;D
+- El boton de "Recargar Ficha" solo es accesible despues de cargar una.
+- El boton "Cargar Ficha" ha sido modificado. Ahora solo lo necesitas para "refrescar" la ficha.
+- Hay tres trucos oculto en el emulador, a ver si los encuentras! ;D
+
+
+siEmu: CEE v.0.04B: Lunes 2 de Agosto de 1999 (por la mañana)
+
+- Dentro de poco hare que puedas cargar la ficha poniendo solo su numero.
+- En las lucecitas existen unos puntos provisionales.
+- Modificacion de un error al mostrar la version (iniciando el .exe).
+- Archivos de texto debidamente modificados.
+- Implementado CopyRight :P
+- No emula nada pero ya comienza a funcionar la cosa. Sera cuestion de unos pasitos mas, Maria xD
+- Cambio de color en las lucecitas.
+- Ya es posible utilizar los botones (numeros, arroba e intro)
+- Cambio de fondo.
+- Topic del programa principal modificado (siEMU a SiEmu) y con el aviso de CopyRight.
+- Pequeños formularios puestos con borde tipo fijo.
+- La pantallita utiliza la fuente "Small Fonts"
+- Quitado pequeño descuido de texto oscuro en la pantallita.
+- Ahora ya hay teclas de acceso rapido (alt+?) para acceder a los botones facilmente.
+- Nuevo boton para Salir.
+- Nuevo archivo de texto incluido: gracias.txt.
+- Dentro de poco tambien podras apretar en la WEB (como con el E-Mail) y navegar en ella.
+- Ahora puedes apretar en el E-Mail que aparece en el ejecutable y escribirme.
+- Semi-Depuracion de gran parte del codigo. Mas optimizado (no se nota).
+- Boton de ayuda para los que no se aclaran (:
+- Se ha puesto mi E-Mail en distintos sitios. Que despiste no ponerlo! xD
+- Ficha2.GIF cambiado. Ahora con logo de DUMBO (R).
+- Primera version del "buscador de fichas". Aun muy basico y no hace nada.
+- Nuevo icono (una oreja) en el formulario para manejar el volumen.
+- Nuevo boton capaz de mostrar informacion sobre la partida y ficha cargada.
+
+
+siEmu: CEE v.0.03B: Domingo 1 de Agosto de 1999 (por la tarde)
+
+- Ya no da error al apretar el boton "Cancelar" de las ventanas de configuracion.
+- Implementacion de un marco donde se situa la ficha.
+- Se procedera a preparar su web, con todas las fichas y nuevas versiones. Todavia es una idea.
+- Limpieza general: ahora dara menos errores.
+- Pequeño error fijado que hacia que la arroba siempre estuviese "enabled"
+- Ahora puedes cargar las fichas! facilmente abre la que quieras (.BMP, .PCX y .GIF) ;D
+- Fijado pequeño bug en el on/off.
+- Creacion de codigos.txt (muy util) y lonuevo.txt (este).
+- Modificacion conveniente en los correspondientes archivos de texto.
+- Ahora marca en los resultados de configuracion la puntuacion maxima, el titulo de la ficha...
+- Ahora dice si la ficha esta o no soportada :D
+- Soporta la primera ficha, la ficha 1 y la reconoce completamente. Introduce su codigo.
+- Falta muy poco para que podais disfrutar de la primera ficha! ;D
+
+
+siEmu: CEE v.0.02B: Domingo 1 de Agosto de 1999 (por la mañana/mediodia)
+
+- Estamos a un solo paso de emular la primera ficha ("rom")! ;D
+- El path obligatorio de instalacion de los archivos es "C:\SIEMU\" sin excepcion.
+- Implementacion de lucecitas marcadoras laterales (26 en total).
+- Posibilidad de Enceder/Apagar el equipo.
+- Posibilidad de introducir las opciones de configuracion.
+- Control de Volumen (pero no funciona, no hay sonido, solo BEEP's sin control de volumen XD).
+- Archivos de texto debidamente modificados.
+- Imagen on.gif nueva.
+- Ahora cambia de cursor en el lugar de posicionamiento de la ficha.
+
+
+siEmu: CEE v.0.03B: Domingo 1 de Agosto de 1999 (por la mañana)
+
+- El emulador puede ser instalado en cualquier path.
+- Creacion del programa en Visual Basic 4.0 32 Bits (Windows 95).
+- Creacion de leeme.txt y siemu.txt.
+- Implementacion de imagenes correspondientes (no son utilizadas en el emulador).
+- Primera version ejecutable del emulador! ;D
+
+
+By A-Kristo. jalbam@tinet.fut.es

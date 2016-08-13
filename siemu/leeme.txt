@@ -1,0 +1,59 @@
+siEmu: CEE-8650 (Computer Electro Emulator 8650)
+
+Este archivo leeme corresponde a la version 0.08 Beta del emulador.
+
+
+Archivos adjuntos:
+siemu.exe   - siEmu Ejecutable
+siemu.gif   - Logo siEmu
+title.gif   - Imagen original simulada del ordenador
+logo.gif    - Logo de la compañia Dumbo(r)
+ficha.gif   - Tamaño real de una ficha
+ficha2.gif  - Tamaño de una ficha a escala 1:2 (la mitad). Ahora con logo de DUMBO (R).
+siemu.txt   - Algunas aclaraciones generales del emulador y demas info
+leeme.txt   - Aqui lo tienes! ;D
+lonuevo.txt - Novedades en las diferentes versiones. 
+codigos.txt - Informacion de las distintas fichas correspondientes en la compra del ordenador.
+on.gif      - Imagen necesario para el emulador
+gracias.txt - Archivo que da las gracias a todos xD
+crear.txt   - Aprende a crear tus propias fichas! ;D
+urls.txt    - URLs de sitios de interes relacionados
+system.cfg  - Archivo necesario (si no dara posibles errores!)
+playera.gif - Archivo necesario.
+playerb.gif - Archivo necesario.
+player1.gif - Archivo necesario.
+player2.gif - Archivo necesario.
+luz1.gif    - Archivo necesario.
+luz1-on.gif - Archivo necesario.
+luz2.gif    - Archivo necesario.
+luz2-on.gif - Archivo necesario.
+datos.txt   - Datos de guia.
+siemu.ico   - Icono del programa.
+fichas\     - Directorio con imagenes que utiliza el buscador.
+
+Este software esta programado en Visual Basic 4.0 para Windows 95 por lo que es necesario, para
+su ejecucion, instalar Windows9x y las librerias VB4 32 bits en "\windows\system".
+
+Los archivos han de ser descomprimidos en "C:\SIEMU\" sin ninguna excepcion. No se les debe
+cambiar el nombre y no es recomendable modificarlos. Si utilizas el WinZip el mismo creara un
+directorio "siemu" y por lo tanto solo hara falta que lo descomprimas en C:\
+
+Esta version todavia no es capaz de emular nada, pero el tiempo lo dira. Solo identifica la
+primera ficha.
+
+Herramientas empleadas para su creacion: Notepad de Win98, PSP 5.01 32 Bits y VB4 para Win9x.
+Material: P200MMX 24Mb RAM, HD 814Mb, S3 2Mb, Windows 98 y ordenador "Computer Electro".
+
+Requisitos minimos: 80386 a 33Mhz con 4Mb RAM y Windows9x. 3Mb Libres en HD.
+Requisitos recomendados: 80486 a 100Mhz con 8Mb Ram y Windows 9x. 20Mb Libres en HD.
+
+Atencion: se busca a persona cercana para escanear las fichas (el tamaño en siemu.txt). Ya tengan
+las fichas del ordenador y las puedan escanear y luego enviarmelas por E-Mail o se las tenga que
+dejar yo. Gracias.
+
+IMPORTANTE: El juego puede contener momentos clasificados como X por lo que se debera tener en
+cuenta el publico menor.
+
+Gracias a todos por vuestra atencion.
+
+A-Kristo. jalbam@tinet.fut.es

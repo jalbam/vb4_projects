@@ -1,0 +1,157 @@
+Acontinuacion disponeis de los codigos de todas las fichas (ya hechas) que venian con el CE:
+Por orden: numero de ficha, clase, titulo, codigo y puntuacion maxima.
+
+1: Geografía - Países Europeos. 9637. 78.
+
+2: Geografía - Europa/Capitales. 9642. 78.
+
+3: Geografía - Países del Mundo. 9813. 78.
+
+4: Geografía - Ciudades del Mundo. 9673. 78.
+
+5: Geografía - Norteamérica y Centroamérica. 9612. 78.
+
+6: Geografía - América del Sur. 9623. 78.
+
+7: Geografía - África. 9698. 78.
+
+8: Geografía - Países Asiáticos. 9684. 78.
+
+9: Geografía - Europa-Accidentes Geográficos. 8094. 60.
+
+10: Geografía Europa - Mares y Ríos. 8204. 60.
+
+11: Geografía - El Mundo. 9598. 78.
+
+12: Geografía - Partes del Mundo y Mares. 9653. 78.
+
+13: Historia - Colón (1450-1506). 6589. 48.
+
+14: Historia - La Antigüedad. 8195. 60.
+
+15: Historia - Antiguas Civilizaciones. 2062. 30.
+
+16: Historia - Exploradores. 2032. 30.
+
+17: Historia - La Roma Antigua. 9567. 78.
+
+18: Historia - Europa a través de los siglos. 2163. 30.
+
+19: Historia - Antes y Ahora. 9708. 78.
+
+20: Historia - La Edad Media (+500 - +1500). 6509. 48.
+
+21: Historia - de +1500 hasta +1900. 8165. 60.
+
+22: Historia - El Siglo XX. 8506. 78.
+
+23: Historia - Colonias + Año 1900. 2158. 30.
+
+24: Historia - Guerra y Paz. 8251. 60.
+
+25: Flora y Fauna - Especies Amenazadas. 8134. 60.
+
+26: Flora y Fauna - Animales en Peligro de Extinción. 2093. 30.
+
+27: Flora y Fauna - En el Bosque. 8149. 60.
+
+28: Flora y Fauna - Dinosaurios. 8179. 60.
+
+29: Flora y Fauna - Caos de Mamíferos. 1487. 30.
+
+30: Flora y Fauna - Mamíferos Acuáticos. 3984. 36.
+
+31: Flora y Fauna - Pequeños Mamíferos. 3783. 36.
+
+32: Flora y Fauna - Reptiles. 3505. 36.
+
+33: Flora y Fauna - Reconstrucción de Fotos. 2492. 30.
+
+34: Floras y Fauna - Aves. 3879. 36.
+
+35: Flora y Fauna - Criaturas de Marea. 1239. 30.
+
+36: Flora y Fauna - ¿Agua Salada o Dulce?. 1492. 30.
+
+37: Cultura y Arte - Instrumentos Musicales. 5630. 48.
+
+38: Cultura y Arte - Religiones del Mundo. 7059. 60.
+
+39: Cultura y Arte - Pintores Famosos. 8215. 60.
+
+40: Cultura y Arte - La Vivienda de Ayer y de Hoy. 8018. 60.
+
+41: Cultura y Arte - Gestos. 8029. 60.
+
+42: Cultura y Arte - Nos Representamos. 8034. 60.
+
+43: Cultura y Arte - Dinero. 8048. 60.
+
+44: Cultura y Arte - Platos Nacionales. 8059. 60.
+
+45: Cultura y Arte - Héroes Imaginarios. 8064. 60.
+
+46: Cultura y Arte - Monumentos Europeos. 9583. 78.
+
+47: Cultura y Arte - Idiomas del Mundo. 6528. 48.
+
+48: Cultura y Arte - Juegos Mundiales. 8235. 60.
+
+49: Cultura y Arte - Poblaciones en el Mundo. 5614. 48.
+
+50: Cultura y Arte . Etnología. 8104. 60.
+
+51: Ciencia y Técnica - El Universo. 8080. 60.
+
+52: Ciencia y Técnica - El Ordenador. 9738. 78.
+
+53: Ciencia y Técnica - Volcanes. 8180. 60.
+
+54: Ciencia y Técnica - Inventos. 8150. 60.
+
+55: Ciencia y Técnica - Accidentes Geográficos. 8079. 60.
+
+56: Ciencia y Técnica - Pluviosidad en el Mundo. 7029. 60.
+
+57: Ciencia y Técnica - La Aviación y la Astronáutica. 8129. 60.
+
+58: Ciencia y Técnica - Las 7 Maravillas del Mundo. 6569. 48.
+
+59: Juegos y Puzzles - Cuadrar Formas. 2128. 30.
+
+60: Juegos y Puzzles - Ropero Patas Arriba. 2102. 30.
+
+61: Juegos y Puzzles - ¿Qúe es esto?. 1084. 30.
+
+62: Juegos y Puzzles - Juego de Palabras. 4570. 42.
+
+63: Juegos y Puzzles - Diversión Familiar. 1069. 30.
+
+64: Juegos y Puzzles - Montones de Canapés.
+
+65: Juegos y Puzzles - Primeros Planos. 1073. 30.
+
+66: Juegos y Puzzles - ¿Ves Bien?. 1054. 30.
+
+67: Juegos y Puzzles - Ilusión Alucinación. 1285. 30.
+
+68: Juegos y Puzzles - Asunto de Llaves. 1314. 30.
+
+69: Juegos y Puzzles - ¿Vegetal o Mineral?. 4298. 42.
+
+70: Juegos y Puzzles - Objetos Pegajosos. 1023. 30.
+
+71: Juegos y Puzzles - Abracadabra. 1527. 30.
+
+72: Juegos y Puzzles - ¡Remátalo!. 3581. 36.
+
+73: Juegos y Puzzles - Locura de Cubos. 1290. 30.
+
+74: Juegos y Puzzles - ¡Encárate!. 2012. 30.
+
+
+* NOTA: Las demas fichas (75 a 80, ambas inclusive) son hojas en blanco para hacer tu propia
+ficha personalizada. Por lo que no tiene codigo, ni titulo, ni puntuacion, ni nada. Solo
+numero: 75, 76, 77, 78, 79 o 80.
+
+A-Kristo. jalbam@tinet.fut.es

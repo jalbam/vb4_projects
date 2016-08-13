@@ -1,0 +1,2 @@
+Menu PICs: 85x20
+Menu Logo: 85x45

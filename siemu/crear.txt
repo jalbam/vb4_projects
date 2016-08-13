@@ -1,0 +1,25 @@
+Archivo de ayuda para los interesados en crear sus fichas.
+
+
+Formatos permitidos: *.BMP, *.PCX y *.GIF (tambien algunos mas, menos recomendados)
+Tamaño real: 34x24cm (14580x10320)  <-no permitido
+Tamaño necesario: 17x12cm (escala 1:2) (7290x5160)
+
+Las fichas han de tener una PUNTUACION MAXIMA, un CODIGO, un TEMA y un TITULO.
+
+Para hacer compatible la ficha con el emulador se pueden elegir dos caminos:
+
+A) Se le da un codigo de una ficha ya soportada. Esto implicaria que las respuestas y preguntas
+   tendrian que ser iguales a la ficha con el codigo original. Por ejemplo, si la ficha original
+   la pregunta A es 20, en la creada por nosotros tambien tendra que ser asi y por lo tanto lo
+   mejor sera pasar de esta forma de hacerlo ya que aunque se cambie el orden las respuestas
+   siempre tendran que ser las mismas.
+
+B) Lo mas recomendable es, sin duda alguna, crear una ficha por ti mismo, darle la puntuacion
+   maxima, el tema y el titulo (respetando el tamaño necesario) y luego enviarmela por E-Mail
+   y yo la hare compatible con el emulador asignandole un codigo. Pero tambien podeis elegir
+   vosotros el codigo, pero si ya existe tendre que cambiarlo (:
+
+
+A-Kristo, jalbam@tinet.fut
+   
